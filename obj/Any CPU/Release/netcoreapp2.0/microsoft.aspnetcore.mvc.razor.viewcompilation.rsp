@@ -1,0 +1,25 @@
+C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=DOTNETWEB_KCREVOLUTION
+--content-root=C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION
+--file=C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\Areas\Admin\Views\Admin\Index.cshtml
+--file=C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\Areas\Connect\Views\Connect\Calendar.cshtml
+--file=C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\Areas\Connect\Views\Connect\Index.cshtml
+--file=C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\Areas\Connect\Views\Connect\RevKids.cshtml
+--file=C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\Areas\Connect\Views\Connect\SmallGroups.cshtml
+--file=C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\Areas\Connect\Views\_ViewImports.cshtml
+--file=C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\Areas\Engage\Views\Engage\Contact.cshtml
+--file=C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\Areas\Engage\Views\Engage\Index.cshtml
+--file=C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\Areas\Engage\Views\Engage\Service.cshtml
+--file=C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\Areas\Engage\Views\_ViewImports.cshtml
+--file=C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\Areas\Home\Views\Home\Index.cshtml
+--file=C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\Areas\Inform\Views\Inform\Blog.cshtml
+--file=C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\Areas\Inform\Views\Inform\BlogDetail.cshtml
+--file=C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\Areas\Inform\Views\Inform\Index.cshtml
+--file=C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\Areas\Inform\Views\Inform\WorshipSeries.cshtml
+--file=C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\Areas\Inform\Views\_ViewImports.cshtml
+--file=C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\Views\Shared\Error.cshtml
+--file=C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\Views\Shared\_Layout.cshtml
+--file=C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\Views\_ViewImports.cshtml
+--file=C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\Views\_ViewStart.cshtml

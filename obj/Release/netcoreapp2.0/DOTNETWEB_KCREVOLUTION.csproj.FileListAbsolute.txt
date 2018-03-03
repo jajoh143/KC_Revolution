@@ -1,0 +1,11 @@
+C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\obj\Release\netcoreapp2.0\DOTNETWEB_KCREVOLUTION.csprojResolveAssemblyReference.cache
+C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\obj\Release\netcoreapp2.0\DOTNETWEB_KCREVOLUTION.csproj.CoreCompileInputs.cache
+C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\obj\Release\netcoreapp2.0\DOTNETWEB_KCREVOLUTION.AssemblyInfoInputs.cache
+C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\obj\Release\netcoreapp2.0\DOTNETWEB_KCREVOLUTION.AssemblyInfo.cs
+C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\bin\Release\netcoreapp2.0\DOTNETWEB_KCREVOLUTION.deps.json
+C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\bin\Release\netcoreapp2.0\DOTNETWEB_KCREVOLUTION.runtimeconfig.json
+C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\bin\Release\netcoreapp2.0\DOTNETWEB_KCREVOLUTION.runtimeconfig.dev.json
+C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\bin\Release\netcoreapp2.0\DOTNETWEB_KCREVOLUTION.dll
+C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\bin\Release\netcoreapp2.0\DOTNETWEB_KCREVOLUTION.pdb
+C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\obj\Release\netcoreapp2.0\DOTNETWEB_KCREVOLUTION.dll
+C:\Users\jajoh\source\repos\DOTNETWEB_KCREVOLUTION\DOTNETWEB_KCREVOLUTION\obj\Release\netcoreapp2.0\DOTNETWEB_KCREVOLUTION.pdb
